@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **react.js**
 
+- 🤝 I’m looking for clients **Landing pages, blogs, online magazines - tell me about your project !**
+
+- 📫 How to reach me **github.q1q65@simplelogin.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
