@@ -11,7 +11,8 @@
 
 <h3 align="left">See some of my projects:</h3>
 <p align="left">
-<a target "_blank" rel="noopener" href="https://www.mossradio.live/users/sign_in"><img align="center" src="https://res.cloudinary.com/dgosrqmhu/image/upload/v1672757480/GitHub%20Profile/Final_Icon-2_s79klm.jpg" height="30" width="40" /> </a>
+<a target "_blank" rel="noopener" href="https://www.mossradio.live/users/sign_in"><img align="center" src="https://res.cloudinary.com/dgosrqmhu/image/upload/v1672757480/GitHub%20Profile/Final_Icon-2_s79klm.jpg" height="40" width="40" /> </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
