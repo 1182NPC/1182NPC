@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for clients **Landing pages, blogs, online magazines - tell me about your project !**
 
-- 📫 How to reach me **github.q1q65@simplelogin.com**
+- 📫 How to reach me **npc1182.08lii@slmail.me**
 
 <h3 align="left">See some of my projects:</h3>
 <p align="left">
