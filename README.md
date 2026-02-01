@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicholas</h1>
-<h3 align="center">A full stack web developer from the UK</h3>
+<h3 align="center">Comparative Law Specialist and Web Developer</h3>
 
-- 🔭 I’m currently working on [Moss Radio](https://www.mossradio.live/users/sign_in)
+LLM Graduate from the Humboldt-Universität Berlin and Le Wagon Alunmi
+
+- 🔭 Currently working on: My personal legal-tech blog & portfolio.
 
 - 🌱 I’m currently learning **react.js**
-
-- 🤝 I’m looking for clients **Landing pages, blogs, online magazines - tell me about your project !**
 
 - 📫 How to reach me **npc1182.08lii@slmail.me**
 
