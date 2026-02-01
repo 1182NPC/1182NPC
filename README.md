@@ -12,7 +12,7 @@ LLM Graduate from the Humboldt-Universität Berlin and Le Wagon Alunmi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" rel="noopener" href="https://codepen.io/1182npc"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/1182npc" height="30" width="40" /></a>
-<a target="_blank" rel="noopener" href="https://www.linkedin.com/in/nicholas-dr%c3%b6mert-26884b25a/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="www.linkedin.com/in/nicholas-droemert" height="30" width="40" /></a>
+<a target="_blank" rel="noopener" href="https://www.linkedin.com/in/nicholas-droemert"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/nicholas-droemert" height="30" width="40" /></a>
 <a target="_blank" rel="noopener" href="https://www.hackerrank.com/hackerrank_qr1qx"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hackerrank_qr1qx" height="30" width="40" /></a>
 <a target ="_blank" rel="noopener" href="https://www.codecademy.com/profiles/1182NPC"><img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="https://www.codecademy.com/profiles/1182NPC" height="30" width=40" /></a>
 </p>
